@@ -1,0 +1,62 @@
+body{
+    background-color:pink ;
+    font-family: sans-serif;
+}
+.login{
+    width: 300px;
+    height:300px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: aliceblue;
+    text-align: center;
+    margin: auto;
+}
+.login h2{
+    display: inline-block;
+    color: red;
+}
+    
+.login input{
+    width: 200px;
+    height: 20px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.check input{
+    width: 10px;
+    height: 10px;
+}
+.login p {
+    display: inline-block; 
+    float: left;
+    padding-left: 40px;
+    margin: 0px;
+}
+ a{
+    float: right;
+    padding-right: 40px;
+    margin-bottom: 50PX;
+    text-decoration: none;
+}
+.login button{
+    width: 210px;
+    height: 25px;
+    border-radius: 5px;
+    border: none;
+    background-color: plum;
+    color: aliceblue;
+    font-size: 50;
+    margin-bottom: 20px;
+}
+.check{
+    float: left;
+    padding-left: 35px;
+    margin-bottom: 5px;
+}
+.huy{
+    
+}
